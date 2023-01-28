@@ -9,7 +9,7 @@
 - [ビルドが失敗する問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/6)
 - [Storybookが最新のNext.jsで動作しない問題を修正](https://github.com/gihyo-book/ts-nextbook-app/pull/5)
 
-## 環境
+## 環
 
 - Node.js: 16.14.0
 - Next.js: 12.2.3
